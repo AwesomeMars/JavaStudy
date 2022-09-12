@@ -1,0 +1,17 @@
+intelliJ 단축키
+
+1. 에디터 창
+
+cmd+option+v 누르면 new() 부분이 구현된 후 객체 선언부 자동완성
+
+psvm
+soutv
+
+keymap 단축 키 : cmd + , 
+cmd+n : 컨스트럭터
+
+cmd+shift+t : 에디터 창에서 개발 중 테스트를 만든다( 정수 나누기 등)
+
+option + enter : 1) on-demand static import
+                 2) (빨간줄) 시 원하는 객체로 지정
+
